@@ -73,6 +73,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/Rashid_s_CV.pdf
+  target: _blank
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
