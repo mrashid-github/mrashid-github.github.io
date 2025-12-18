@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: John P. Morrissey # Website name
+title: Muhammad Rashid, Ph.D # Website name
 baseURL: "https://mrashid-github.github.io/" # Website URL
-copyright: '© 2021 John P. Morrissey' # Footer text, e.g. '© {year} Me'
+copyright: '© 2025 Muhammad Rashid' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
