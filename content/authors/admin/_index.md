@@ -72,8 +72,8 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/Rashid_s_CV.pdf
-  target: _blank
+  link: https://mrashid-github.github.io/uploads/Rashid_s_CV.pdf
+ 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
