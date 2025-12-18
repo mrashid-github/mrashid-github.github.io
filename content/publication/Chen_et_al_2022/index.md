@@ -1,23 +1,21 @@
 ---
-title: "A comparative assessment and unification of bond models in DEM simulations"
+title: "Energy-based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Xizhong Chen
-- Di Peng
 - admin
-- Jin Y. Ooi
+- Mayuko Nishio
 
 # Author notes (optional)
 # author_notes:
 
-date: "2022-02-01T00:00:00Z"
-doi: "10.1007/s10035-021-01187-2"
+date: "2025-10-15"
+doi: "10.1007/s10518-025-02300-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-16T00:00:00Z"
+publishDate: "2025-10-15"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,12 +24,12 @@ publishDate: "2021-12-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Granular Matter
-publication_short: Gran. Matt.
+Journal:  Bulletin of Earthquake Engineering 
+Journal_short:  Bulletin of Earthquake Engineering 
 volume: 24
 issue: 
 article: 29
-pages: 20
+pages: 31
 page_start: 
 page_end: 
 
