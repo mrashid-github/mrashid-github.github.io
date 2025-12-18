@@ -82,7 +82,7 @@ email: ""
 highlight_name: true
 ---
 
-I am Muhammad Rashid, a Research Associate at the University of Tsukuba, working on the seismic performance evaluation of civil structures, including buildings and bridges, with a focus on sequential seismic hazards, system-level fragility modeling, and performance-based earthquake engineering.
+I am Muhammad Rashid, a Post-doc Research Associate at the University of Tsukuba, working on the seismic performance evaluation of civil structures, including buildings and bridges, with a focus on sequential seismic hazards, system-level fragility modeling, and performance-based earthquake engineering.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Rashid_s_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
