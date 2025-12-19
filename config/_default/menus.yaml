@@ -11,7 +11,7 @@ main:
     url: 'journal/'
     weight: 20 
   - name: Conference Papers
-    url: '#featured'
+    url: 'conference/'
     weight: 30 
   - name: Experience
     url: 'experience'
