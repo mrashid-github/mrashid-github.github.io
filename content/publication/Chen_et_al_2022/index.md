@@ -24,8 +24,8 @@ publishDate: "2025-10-15"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-Journal:  Bulletin of Earthquake Engineering 
-Journal_short:  "Bulletin of Earthquake Engineering"
+publication:  Bulletin of Earthquake Engineering 
+publication_short:  "Bull Earthquake Eng"
 volume: 24
 issue: 
 article: 29
@@ -80,8 +80,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- gran_ed
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
