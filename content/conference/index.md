@@ -1,7 +1,12 @@
 ---
-title: "Conference Papers"
-type: "widget_page"
-layout: "page"
----
+title: Conference Papers
+subtitle: ""
+type: publication
+view: citation
 
-{{< publications filter="pubtype:1" >}}
+filters:
+  publication_type: "1"
+
+sort_by: "date"
+sort_order: "desc"
+---
