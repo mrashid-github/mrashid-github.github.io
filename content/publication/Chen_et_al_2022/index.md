@@ -34,17 +34,20 @@ page_start:
 page_end: 
 
 abstract: |-
-    Bonded contact models have been increasingly used in the discrete element method (DEM) to study cemented and sintered particulate materials in recent years. Several popular DEM bond models have been proposed in the literature; thus it is beneficial to assess the similarities and differences between the different bond models before they are used in simulations. 
-    
-    This paper identifies and discusses two fundamental types of bond models: the Spring Bond Model where two bonded particles are joined by a set of uniform elastic springs on the bond's cross-section, and the Beam Bond Model in which a beam is used to connect the centres of two particles. 
-    
-    A series of cantilever beam bending simulation cases were carried out to verify the findings and assess the strength and weakness of the bond models. Despite the numerous bond models described in the literature, they can all be considered as a variation of these two fundamental model types. The comparative evaluation in this paper also shows that all the bond models investigated can be unified to a general form given at a predefined contact point location.
+    Bridges in high-intensity seismic zones are particularly vulnerable to sequential seismic events, yet conventional performance assessments often consider only mainshock (MS) 
+effects, overlooking the influence of aftershocks. To address this limitation, this study systematically investigates the seismic energy distribution in I-girder multi-span reinforced concrete (RC) bridges subjected to both mainshock-only and mainshock-aftershock (MSAS) sequences. A dataset comprising 269 real MSAS seismic records is employed 
+to evaluate cumulative seismic energy demands and dissipation mechanisms across key bridge components, enabling a more comprehensive assessment of structural performance. 
+Results indicate that aftershocks significantly increase total energy accumulation, with MSAS sequences causing greater hysteretic and damping energy dissipation than MS-only 
+cases. Bearings are identified as the primary energy-dissipating components, critically influencing overall seismic response. Unlike deformation-based parameters, energy-based 
+metrics consistently increase with aftershock inclusion, making them more reliable for quantifying seismic demand. To facilitate energy-based fragility analysis for components 
+and bridge systems, equivalent energy-based limit states are established through statistical correlations with traditional deformation-based parameters. The resulting fragility functions demonstrate that energy-based demand parameters effectively capture cumulative structural behavior throughout the seismic sequence. These findings enhance understanding of seismic energy quantification, enable the translation of classical deformation-based metrics into energy-based parameters, and support more unified and resilient performance evaluation strategies for bridges in regions exposed to sequential seismic hazards.
 
 
 # Summary. An optional shortened abstract.
 summary: "Bonded contact models have been increasingly used in the discrete element method (DEM) to study cemented and sintered particulate materials in recent years. Several popular DEM bond models have been proposed in the literature; thus it is beneficial to assess the similarities and differences between the different bond models before they are used in simulations. This paper identifies and discusses two fundamental types of bond models: the Spring Bond Model where two bonded particles are joined by a set of uniform elastic springs on the bond's cross-section, and the Beam Bond Model in which a beam is used to connect the centres of two particles."
 
-tags: ["Beam bond model", "Bonded-particle model", "Cantilever beam", "Discrete element method", "DEM", "Fracture", "Parallel bond model", "EBBM"]
+tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
+"Beam bond model", "Bonded-particle model", "Cantilever beam", "Discrete element method", "DEM", "Fracture", "Parallel bond model", "EBBM"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -54,7 +57,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://doi.org/10.1007/s10035-021-01187-2
+url_pdf: https://doi.org/10.1007/s10518-025-02300-z
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,7 +67,7 @@ url_source: ''
 url_video: ''
 
 # add Altmetric, dimensions and plumx badges
-add_badge: true
+add_badge: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
