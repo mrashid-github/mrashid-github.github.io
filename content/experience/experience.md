@@ -18,7 +18,7 @@ experience:
     company_url: 'https://www.tsukuba.ac.jp/en/'
 #    company_logo: University_of_Edinburgh-Logo_2
     location: Tsukuba, Japan
-    date_start: '2025-10'
+    date_start: '2025-10-01'
     date_end: ''
 #    description: |2-
 #        Responsibilities include:    
