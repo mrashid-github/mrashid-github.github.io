@@ -1,7 +1,12 @@
 ---
-title: "Journal Publications"
-type: "widget_page"
-layout: "page"
----
+title: Journal Publications
+subtitle: ""
+type: publication
+view: citation
 
-{{< publications filter="pubtype:2" >}}
+filters:
+  publication_type: "2"
+
+sort_by: "date"
+sort_order: "desc"
+---
