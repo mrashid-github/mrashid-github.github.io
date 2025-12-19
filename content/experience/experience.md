@@ -26,38 +26,49 @@ experience:
 #        * Experimental analysis and Calibration
 #        * Data Analysis
         
-  - title: Consultant
-    company: University of Edinburgh
-    company_url: 'https://www.ed.ac.uk/'
-    company_logo: logo_granular_def
-    location: Edinburgh, Scotland, UK
-    date_start: '2013-07-01'
-    date_end: ''
-    description: Consultant in the field of particulate mechanics
+  - title: Research Assistant
+    company: University of Tsukuba
+    company_url: 'https://www.tsukuba.ac.jp/en/'
+    location: Tsukuba, Japan
+    date_start: '2023-11-01'
+    date_end: '2025-09-30'
 
-  - title: Tutor & Demonstrator
-    company: University of Edinburgh
-    company_url: 'https://www.ed.ac.uk/'
-    company_logo: University_of_Edinburgh-Logo_2
-    location: Edinburgh, Scotland, UK
-    date_start: '2009-10-01'
-    date_end: '2014-05-31'
-    description: |2-
-        Tutor & Demonstrator for several undergraduate courses including:
+  - title: Research Assistant
+    company: Earthquake Engineering Center, UET Peshawar
+    company_url: 'https://www.uetpeshawar.edu.pk/earthquake-engineering-center-eec/'
+    location: Peshawar, Pakistan
+    date_start: '2019-04-01'
+    date_end: '2020-09-30'
 
-        * Soil Mechanics 2
-        * Geotechnical Engineering 3
-        * Computational Geomechanics 5
+  - title: Visiting Lecturer
+    company: Department of Civil Engineering, UET Peshawar
+    company_url: 'https://www.uetpeshawar.edu.pk/faculty-of-civil-agricultural-mining-engineering/'
+    location: Peshawar, Pakistan
+    date_start: '2020-01-01'
+    date_end: '2020-06-30'
 
-  - title: Engineering Technician
-    company: MHL & Associates Consulting Engineers
-    company_url: https://www.mhl.ie
-    company_logo: mhl_logo
-    location: Cork, Ireland
-    date_start: '2005-09-01'
-    date_end: '2006-08-30'
-    description: Engineering Technician responsible for the prepartion of technical drawings, design calculations and project documents.
+  - title: Teaching Assistant
+    company: Department of Engineering Mechanics & Energy, University of Tsukuba
+    company_url: 'https://www.eme.tsukuba.ac.jp/'
+    location: Tsukuba, Japan
+    date_start: '2023-10-01'
+    date_end: '2025-09-30'
 
+  - title: Teaching Assistant
+    company: Department of Civil Engineering, UET Peshawar
+    company_url: 'https://www.uetpeshawar.edu.pk/faculty-of-civil-agricultural-mining-engineering/'
+    location: Peshawar, Pakistan
+    date_start: '2018-10-01'
+    date_end: '2020-06-30'
+
+  - title: Junior Design Engineer
+    company: Structural Engineering Cosultant, Peshawar
+    # company_url: 'https://www.uetpeshawar.edu.pk/faculty-of-civil-agricultural-mining-engineering/'
+    location: Peshawar, Pakistan
+    date_start: '2018-03-01'
+    date_end: '2018-08-30'
+    
+  
 design:
   columns: '2'
 ---
