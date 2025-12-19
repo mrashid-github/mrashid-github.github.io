@@ -21,8 +21,7 @@ experience:
     date_start: '2025-10'
     date_end: ''
 #    description: |2-
-#        Responsibilities include:
-#        
+#        Responsibilities include:    
 #        * Modelling & Simulation
 #        * Experimental analysis and Calibration
 #        * Data Analysis
