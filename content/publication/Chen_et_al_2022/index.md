@@ -1,4 +1,4 @@
---- 
+---
 title: "Energy-based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
 
 # Authors
@@ -47,7 +47,6 @@ and bridge systems, equivalent energy-based limit states are established through
 summary: "Bonded contact models have been increasingly used in the discrete element method (DEM) to study cemented and sintered particulate materials in recent years. Several popular DEM bond models have been proposed in the literature; thus it is beneficial to assess the similarities and differences between the different bond models before they are used in simulations. This paper identifies and discusses two fundamental types of bond models: the Spring Bond Model where two bonded particles are joined by a set of uniform elastic springs on the bond's cross-section, and the Beam Bond Model in which a beam is used to connect the centres of two particles."
 
 tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
-"Beam bond model", "Bonded-particle model", "Cantilever beam", "Discrete element method", "DEM", "Fracture", "Parallel bond model", "EBBM"]
 
 # Display this page in the Featured widget?
 featured: true
