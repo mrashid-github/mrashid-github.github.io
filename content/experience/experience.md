@@ -13,19 +13,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Associate
-    company: University of Edinburgh
-    company_url: 'https://www.ed.ac.uk/'
-    company_logo: University_of_Edinburgh-Logo_2
-    location: Edinburgh, Scotland, UK
-    date_start: '2013-01-07'
+  - title: Postdoc Research Associate
+    company: University of Tsukuba
+    company_url: 'https://www.tsukuba.ac.jp/en/'
+#    company_logo: University_of_Edinburgh-Logo_2
+    location: Tsukuba, Japan
+    date_start: '2025-10'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Modelling & Simulation
-        * Experimental analysis and Calibration
-        * Data Analysis
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Modelling & Simulation
+#        * Experimental analysis and Calibration
+#        * Data Analysis
         
   - title: Consultant
     company: University of Edinburgh
