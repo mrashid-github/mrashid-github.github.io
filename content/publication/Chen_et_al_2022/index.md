@@ -1,5 +1,5 @@
 ---
-title: "Energy-based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
+title: "Energy based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
