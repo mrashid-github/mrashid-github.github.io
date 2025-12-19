@@ -33,12 +33,12 @@ experience:
     date_start: '2023-11-01'
     date_end: '2025-09-30'
 
-  - title: Research Assistant
-    company: Earthquake Engineering Center, UET Peshawar
-    company_url: 'https://www.uetpeshawar.edu.pk/earthquake-engineering-center-eec/'
-    location: Peshawar, Pakistan
-    date_start: '2019-04-01'
-    date_end: '2020-09-30'
+  - title: Teaching Assistant
+    company: Department of Engineering Mechanics & Energy, University of Tsukuba
+    company_url: 'https://www.eme.tsukuba.ac.jp/'
+    location: Tsukuba, Japan
+    date_start: '2023-10-01'
+    date_end: '2025-09-30'
 
   - title: Visiting Lecturer
     company: Department of Civil Engineering, UET Peshawar
@@ -46,13 +46,13 @@ experience:
     location: Peshawar, Pakistan
     date_start: '2020-01-01'
     date_end: '2020-06-30'
-
-  - title: Teaching Assistant
-    company: Department of Engineering Mechanics & Energy, University of Tsukuba
-    company_url: 'https://www.eme.tsukuba.ac.jp/'
-    location: Tsukuba, Japan
-    date_start: '2023-10-01'
-    date_end: '2025-09-30'
+        
+  - title: Research Assistant
+    company: Earthquake Engineering Center, UET Peshawar
+    company_url: 'https://www.uetpeshawar.edu.pk/earthquake-engineering-center-eec/'
+    location: Peshawar, Pakistan
+    date_start: '2019-04-01'
+    date_end: '2020-09-30'
 
   - title: Teaching Assistant
     company: Department of Civil Engineering, UET Peshawar
