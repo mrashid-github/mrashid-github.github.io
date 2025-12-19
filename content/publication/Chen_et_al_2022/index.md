@@ -38,7 +38,7 @@ abstract: |-
 
 
 # Summary. An optional shortened abstract.
-summary: ""
+# summary: "This is the summary line"
 
 tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
 
