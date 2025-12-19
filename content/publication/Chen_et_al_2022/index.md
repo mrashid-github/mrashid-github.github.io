@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 Journal:  Bulletin of Earthquake Engineering 
-Journal_short:  Bulletin of Earthquake Engineering 
+Journal_short:  "Bulletin of Earthquake Engineering"
 volume: 24
 issue: 
 article: 29
