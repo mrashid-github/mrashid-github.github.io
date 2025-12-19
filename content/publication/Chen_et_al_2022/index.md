@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication:  Bulletin of Earthquake Engineering 
-publication_short:  "Bull Earthquake Eng"
+publication_short:  "Bull. Earthquake Eng."
 volume: 24
 issue: 
 article: 29
@@ -38,7 +38,7 @@ abstract: |-
 
 
 # Summary. An optional shortened abstract.
-summary: []
+summary: ""
 
 tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
 
