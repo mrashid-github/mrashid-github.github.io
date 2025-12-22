@@ -218,3 +218,13 @@
     flex: 33%;
     padding: 5px;
   }
+
+/*************************************************
+*  Hide publication buttons on homepage list only
+**************************************************/
+
+/* Hide Cite/PDF/DOI buttons in citation-style publication lists (view: 4) */
+.view-citation .pub-links,
+.view-citation .btn {
+  display: none !important;
+}
