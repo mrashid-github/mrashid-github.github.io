@@ -25,7 +25,7 @@ abstract: |-
 # Summary. An optional shortened abstract.
 # summary: "This paper presents a generic framework of Model Driven Design (MDD) with its application for a twin screw granulation process using a mechanistic-based population balance model (PBM)."
 
-tags: ["Model driven design", "Model validation", "Parameter estimation", "Population balance model", "Sensitivity analysis", "Twin screw granulation"]
+tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -40,8 +40,6 @@ url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Reference Manual; 10 = Poster; 11 = Unpublished;
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
@@ -54,7 +52,7 @@ add_badge: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Generic Model Driven Design Framework'
+  caption: ''
   focal_point: ""
   preview_only: false
 
