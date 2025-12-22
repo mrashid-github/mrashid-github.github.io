@@ -219,4 +219,11 @@
     padding: 5px;
   }
 
+.view-citation .pub-links,
+.view-citation .btn,
+.view-citation a.btn,
+.view-citation .btn-group,
+.view-citation .btn-toolbar {
+  display: none !important;
+}
 
