@@ -8,32 +8,18 @@ main:
     url: '#about'
     weight: 10
   - name: Journal Publications
-    url: 'publication/journal'
+    url: '#journals'
     weight: 20 
   - name: Conference Papers
-    url: 'publication/conference'
+    url: '#conferences'
     weight: 30 
   - name: Experience
-    url: 'experience'
+    url: '#experience'
     weight: 40
   - name: Contact
-    url: 'contact'
+    url: '#contact'
     weight: 50  
     
-  - name: Posts
-    url: '#posts'
-    weight: 60
-  - name: Projects
-    url: '#projects'
-    weight: 70
-  - name: Talks
-    url: '#talks'
-    weight: 80
-
-  - name: Posters
-    url: '#posters'
-    weight: 90
-
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
