@@ -24,8 +24,8 @@ publishDate: "2025-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bulletin of Earthquake Engineering*"
-publication_short: "*Bull. Earthquake Eng.*"
+publication: "Bulletin of Earthquake Engineering"
+publication_short: "Bull. Earthquake Eng."
 
 
 abstract: |-
