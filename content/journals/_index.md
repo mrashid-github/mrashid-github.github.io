@@ -2,7 +2,7 @@
 title: Journal Publications
 subtitle: ""
 type: publication
-view: citation
+view: 4
 
 show_date: true
 show_publication: true
