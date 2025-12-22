@@ -17,15 +17,6 @@ doi: "10.1007/s10518-025-02300-z"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-10-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Reference Manual; 10 = Poster; 11 = Unpublished;
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Bulletin of Earthquake Engineering*"
-publication_short: "*Bull. Earthquake Eng.*"
 
 
 abstract: |-
@@ -70,8 +61,18 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
 
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent; 9 = Reference Manual; 10 = Poster; 11 = Unpublished;
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: "*Bulletin of Earthquake Engineering*"
+publication_short: "*Bull. Earthquake Eng.*"
+---
 {{% callout note %}}
-Click the *Cite* button above to get publication metadata for your reference management software in *.bib* format.
+# Click the *Cite* button above to get publication metadata for your reference management software in *.bib* format.
 {{% /callout %}}
