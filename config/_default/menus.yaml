@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Journal Publications
+  - name: Journal Articles
     url: '#journals'
     weight: 20 
   - name: Conference Papers
