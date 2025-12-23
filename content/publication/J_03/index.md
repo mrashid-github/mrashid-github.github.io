@@ -51,7 +51,7 @@ url_pdf: https://link.springer.com/article/10.1007/s41062-021-00692-w
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Innovative Infrastructure Solutions*"
+publication: "*Innovative Infrastructure Solutions*"
 publication_short: "*Innov. Infrastruct. Solut.*"
 
 # add Almetric adn dimensions badges
