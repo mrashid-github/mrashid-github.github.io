@@ -1,5 +1,5 @@
 ---
-title: "Energy-based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
+title: "System fragility evaluation of a curved highway bridge structure considering multi-direction seismic excitations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,21 +11,21 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2025-10-01T00:00:00Z"
-doi: "10.1007/s10518-025-02300-z"
+date: "2023-10-01T00:00:00Z"
+doi: "10.1177/13694332231198136"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-01T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 
 
 
 abstract: |-
-  Bridges in high-intensity seismic zones are particularly vulnerable to sequential seismic events, yet conventional performance assessments often consider only mainshock (MS) effects, overlooking the influence of aftershocks. To address this limitation, this study systematically investigates the seismic energy distribution in I-girder multi-span reinforced concrete (RC) bridges subjected to both mainshock-only and mainshock-aftershock (MSAS) sequences. A dataset comprising 269 real MSAS seismic records is employed to evaluate cumulative seismic energy demands and dissipation mechanisms across key bridge components, enabling a more comprehensive assessment of structural performance. Results indicate that aftershocks significantly increase total energy accumulation, with MSAS sequences causing greater hysteretic and damping energy dissipation than MS-only cases. Bearings are identified as the primary energy-dissipating components, critically influencing overall seismic response. Unlike deformation-based parameters, energy-based metrics consistently increase with aftershock inclusion, making them more reliable for quantifying seismic demand. To facilitate energy-based fragility analysis for components and bridge systems, equivalent energy-based limit states are established through statistical correlations with traditional deformation-based parameters. The resulting fragility functions demonstrate that energy-based demand parameters effectively capture cumulative structural behavior throughout the seismic sequence. These findings enhance understanding of seismic energy quantification, enable the translation of classical deformation-based metrics into energy-based parameters, and support more unified and resilient performance evaluation strategies for bridges in regions exposed to sequential seismic hazards.
+  This paper presents the impact of varying the input seismic excitation directions on the system fragility of a geometrically complex highway bridge structure. The traditional approach of fragility derivation in the principal loading directions (longitudinal and transverse) results in an under/overestimation of the system fragility. To reduce such errors, the contribution of all major vulnerable components to the system fragility in the critical loading direction must be considered. For this purpose, a series of nonlinear time-history analyses were conducted for a testbed configured geometrically curved highway bridge structure in Japan. Shear strain, ductility, and distortion strain were considered as engineering demand parameters for bearings, concrete pier, and steel piers, respectively. The demand dependency among the components was considered using the correlation coefficient matrix for fragility estimation. Subsequently, fragility functions with respect to the input loading directions were generated for the bridge components and system to quantify their sensitivity to seismic input excitation directions. The results show that the component fragility is significantly influenced by the input excitation direction. A relative comparison of the system fragility for different loading directions indicated that a 150° loading direction yielded a higher fragility demand. The findings suggest that the critical fragility assessment should not always be decided only along the principal loading directions.
 
 # Summary. An optional shortened abstract.
-summary: "Bulletin of Earthquake Engineering, 2025"
+summary: "Advances in Structural Engineering, 2023"
 
-tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
+tags: ["seismic excitation directions", "system fragility", "curved bridge", "seismic isolation bearing", "probabilistic seismic demand models", "seismic input uncertainty"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -35,7 +35,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/13694332231198136
 
 
 # Publication type.
@@ -43,8 +43,8 @@ url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bulletin of Earthquake Engineering*"
-publication_short: "*Bull. Earthquake Eng.*"
+publication: "*Advances in Structural Engineering*"
+publication_short: "*Adv. Str. Eng.*"
 
 # add Almetric adn dimensions badges
 add_badge: false
