@@ -36,7 +36,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
+url_pdf: https://journals.sagepub.com/doi/10.1177/13694332241291255
 
 
 # Publication type.
