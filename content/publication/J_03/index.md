@@ -1,31 +1,39 @@
 ---
-title: "Energy-based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
+title: "Comparative seismic performance assessment of RC and RC/ECC hybrid frame structures: a shake table study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+
+- Fasih Ahmed Khan
 - admin
-- Mayuko Nishio
+- Sajjad Wali Khan
+- Muhammad Rizwan
+- Yasir Irfan Badrashi
+- Muhammad Fahim
+- Muhammad Ashraf Tanoli
+- Wasim Khaliq
+- Akhtar Gul 
 
 # Author notes (optional)
 # author_notes:
 
-date: "2025-10-01T00:00:00Z"
-doi: "10.1007/s10518-025-02300-z"
+date: "2021-11-01T00:00:00Z"
+doi: "10.1007/s41062-021-00692-w"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-01T00:00:00Z"
+publishDate: "2021-11-01T00:00:00Z"
 
 
 
 abstract: |-
-  Bridges in high-intensity seismic zones are particularly vulnerable to sequential seismic events, yet conventional performance assessments often consider only mainshock (MS) effects, overlooking the influence of aftershocks. To address this limitation, this study systematically investigates the seismic energy distribution in I-girder multi-span reinforced concrete (RC) bridges subjected to both mainshock-only and mainshock-aftershock (MSAS) sequences. A dataset comprising 269 real MSAS seismic records is employed to evaluate cumulative seismic energy demands and dissipation mechanisms across key bridge components, enabling a more comprehensive assessment of structural performance. Results indicate that aftershocks significantly increase total energy accumulation, with MSAS sequences causing greater hysteretic and damping energy dissipation than MS-only cases. Bearings are identified as the primary energy-dissipating components, critically influencing overall seismic response. Unlike deformation-based parameters, energy-based metrics consistently increase with aftershock inclusion, making them more reliable for quantifying seismic demand. To facilitate energy-based fragility analysis for components and bridge systems, equivalent energy-based limit states are established through statistical correlations with traditional deformation-based parameters. The resulting fragility functions demonstrate that energy-based demand parameters effectively capture cumulative structural behavior throughout the seismic sequence. These findings enhance understanding of seismic energy quantification, enable the translation of classical deformation-based metrics into energy-based parameters, and support more unified and resilient performance evaluation strategies for bridges in regions exposed to sequential seismic hazards.
+  This study focuses on the efficient utilization of engineered cementitious composite (ECC) in reinforced concrete (RC) frame structures. In this regard, ECC has been incorporated in the joint panel and plastic hinge zones of the connecting frame elements. For the evaluation of dynamic performance assessment of such hybrid ECC-RC frame structure, a two-story (low rise) RC-frame structure was selected. Two different structural detailing configurations were considered, a model confirming modern seismic code requirements (Code-Compliant Models), while the other was detailed with some seismic code deficiencies (Non-Compliant Models). For experimental testing, 1:3 reduced scale representative models were fabricated. These models were subjected to a 1994 Northridge accelerogram record through a unidirectional shake table. The damage observed in the conventional RC model has exhibited diagonal cracking at the joint panel and concrete crushing. In contrast, ECC-RC models demonstrated minor column damages without severe cracking of the joint core. For dynamic response evaluation, the seismic response parameters (yield stiffness, yield strength, ductility, overstrength factor, and R-factor) for all the models were computed and compared to evaluate the possibility of incorporating ECC at crucial locations. For the ECC enhanced code-compliant and non-compliant models, the response modification factor increased by 37.62% and 16.61%, respectively, compared to the RC countermodels. In addition, the peak input acceleration was correlated with the peak roof displacement to obtain the seismic response envelopes. The performance of ECC-RC models was exceptional for the non-compliant models, which enhance the seismic ductility and energy dissipation for highly optimized frame structures. Hence, it is believed that the efficient use of ECC in critical regions of frame structures can be vital in mitigating the seismic risk.
 
 # Summary. An optional shortened abstract.
-summary: "Bulletin of Earthquake Engineering, 2025"
+summary: " Innovative Infrastructure Solutions, 2022"
 
-tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
+tags: ["Shake table", "Joint damages", "ECC", "Response modification factor", "Seismic performance", "Ductility"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -35,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
+url_pdf: https://link.springer.com/article/10.1007/s41062-021-00692-w
 
 
 # Publication type.
@@ -43,8 +51,8 @@ url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bulletin of Earthquake Engineering*"
-publication_short: "*Bull. Earthquake Eng.*"
+publication: "* Innovative Infrastructure Solutions*"
+publication_short: "*Innov. Infrastruct. Solut.*"
 
 # add Almetric adn dimensions badges
 add_badge: false
