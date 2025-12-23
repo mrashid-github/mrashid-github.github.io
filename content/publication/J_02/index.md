@@ -1,31 +1,40 @@
 ---
-title: "Energy-based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
+title: "Evaluation of code compliant/non-compliant ECC-RC IMRF structures"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+
+- Fasih Ahmed Khan
+- Sajjad Wali Khan
 - admin
-- Mayuko Nishio
+- Muhammad Rizwan
+- Muhammad Fahim
+- Khan Shahzada
+- Naveed Ahmad
+- Yasir Irfan Badrashi
+- Samiullah Qazi
+- Imad Said
 
 # Author notes (optional)
 # author_notes:
 
-date: "2025-10-01T00:00:00Z"
-doi: "10.1007/s10518-025-02300-z"
+date: "2021-04-01T00:00:00Z"
+doi: "10.1016/j.istruc.2021.03.070"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-01T00:00:00Z"
+publishDate: "2021-04-01T00:00:00Z"
 
 
 
 abstract: |-
-  Bridges in high-intensity seismic zones are particularly vulnerable to sequential seismic events, yet conventional performance assessments often consider only mainshock (MS) effects, overlooking the influence of aftershocks. To address this limitation, this study systematically investigates the seismic energy distribution in I-girder multi-span reinforced concrete (RC) bridges subjected to both mainshock-only and mainshock-aftershock (MSAS) sequences. A dataset comprising 269 real MSAS seismic records is employed to evaluate cumulative seismic energy demands and dissipation mechanisms across key bridge components, enabling a more comprehensive assessment of structural performance. Results indicate that aftershocks significantly increase total energy accumulation, with MSAS sequences causing greater hysteretic and damping energy dissipation than MS-only cases. Bearings are identified as the primary energy-dissipating components, critically influencing overall seismic response. Unlike deformation-based parameters, energy-based metrics consistently increase with aftershock inclusion, making them more reliable for quantifying seismic demand. To facilitate energy-based fragility analysis for components and bridge systems, equivalent energy-based limit states are established through statistical correlations with traditional deformation-based parameters. The resulting fragility functions demonstrate that energy-based demand parameters effectively capture cumulative structural behavior throughout the seismic sequence. These findings enhance understanding of seismic energy quantification, enable the translation of classical deformation-based metrics into energy-based parameters, and support more unified and resilient performance evaluation strategies for bridges in regions exposed to sequential seismic hazards.
+  This paper presents the first-of-its-kind shake table testing and detailed investigation, carried out on one-third reduced-scale Engineered Cementitious Composite-Reinforced Concrete (ECC-RC) hybrid moment-resisting frame structures. The experimental models included a code-compliant model conforming to the seismic building codes and a non-compliant model. The non-compliant model incorporated the deviation of construction practices from the design by using low strength concrete, lacking ties in joints, practicing of 90° hooks, reduction in longitudinal reinforcement ratio, and larger spacing of ties. For structural seismic performance evaluation, the natural acceleration time history of the 1994 Northridge was linearly scaled and applied unidirectionally to both the models through a Shake Table. Seismic response curves were developed by correlating roof displacement demand with the peak sustained acceleration of base motions. The structural natural frequencies and damping ratios were calculated based on free vibration tests. The structural overstrength, displacement ductility ratio, and response modification factor R were also computed. The experimental models with ECC-RC beam-column connections demonstrated the capability to sustain significant lateral displacements at roof-level without jeopardizing the global stability of the structures. The seismic behavior of ECC-RC structural systems shows good promise for potential use in situations where quality assurance on construction sites is not ensured.
 
 # Summary. An optional shortened abstract.
-summary: "Bulletin of Earthquake Engineering, 2025"
+summary: "Structures, 2021"
 
-tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
+tags: ["ECC", "Ductility", "Response modification factor", "IMRF", "Shake table"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -35,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2352012421002502
 
 
 # Publication type.
@@ -43,8 +52,8 @@ url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bulletin of Earthquake Engineering*"
-publication_short: "*Bull. Earthquake Eng.*"
+publication: "*Structures*"
+publication_short: "*Structures*"
 
 # add Almetric adn dimensions badges
 add_badge: false
