@@ -48,7 +48,7 @@ url_pdf: https://link.springer.com/article/10.1007/s42452-020-03349-y
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* SN Applied Sciences*"
+publication: "*SN Applied Sciences*"
 publication_short: "*SN Appl. Sci.*"
 
 # add Almetric adn dimensions badges
