@@ -1,29 +1,33 @@
 ---
-title: "Energy-based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
+title: "CNN-based segmentation frameworks for structural component and earthquake damage determinations using UAV images"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Taisei Saida
 - admin
+- Yudai Nemoto
+- Shota Tsukamoto
+- Takehiko Asai 
 - Mayuko Nishio
 
 # Author notes (optional)
 # author_notes:
 
-date: "2025-10-01T00:00:00Z"
-doi: "10.1007/s10518-025-02300-z"
+date: "2023-04-01T00:00:00Z"
+doi: "10.1007/s11803-023-2174-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-01T00:00:00Z"
+publishDate: "2023-04-01T00:00:00Z"
 
 
 
 abstract: |-
-  Bridges in high-intensity seismic zones are particularly vulnerable to sequential seismic events, yet conventional performance assessments often consider only mainshock (MS) effects, overlooking the influence of aftershocks. To address this limitation, this study systematically investigates the seismic energy distribution in I-girder multi-span reinforced concrete (RC) bridges subjected to both mainshock-only and mainshock-aftershock (MSAS) sequences. A dataset comprising 269 real MSAS seismic records is employed to evaluate cumulative seismic energy demands and dissipation mechanisms across key bridge components, enabling a more comprehensive assessment of structural performance. Results indicate that aftershocks significantly increase total energy accumulation, with MSAS sequences causing greater hysteretic and damping energy dissipation than MS-only cases. Bearings are identified as the primary energy-dissipating components, critically influencing overall seismic response. Unlike deformation-based parameters, energy-based metrics consistently increase with aftershock inclusion, making them more reliable for quantifying seismic demand. To facilitate energy-based fragility analysis for components and bridge systems, equivalent energy-based limit states are established through statistical correlations with traditional deformation-based parameters. The resulting fragility functions demonstrate that energy-based demand parameters effectively capture cumulative structural behavior throughout the seismic sequence. These findings enhance understanding of seismic energy quantification, enable the translation of classical deformation-based metrics into energy-based parameters, and support more unified and resilient performance evaluation strategies for bridges in regions exposed to sequential seismic hazards.
+  Buildings undergo various kinds of structural damage during earthquakes, and damage detection and functional assessment of these structures in the aftermath of the events have been challenging issues. Under these circumstances, computer vision techniques offer a promising solution by automating the inspection process. This study presents an effective methodology for automatic structural components and damage detection using unmanned aerial vehicle (UAV) images of damaged buildings. Two types of neural network architectures are considered for appropriate feature extractions in different task detections. The feature pyramid network (FPN) is employed for crack, spall, rebar, and component damage segmentation, while the UNet++ network is utilized for the damage state. For network training and validation, a total of 3805 original images of size 1920×1080 pixels are processed by the proposed method and reduced the image pixels. From the FPN, the achieved highest intersection over unions (IoUs) were 0.59, 0.93, 0.42, and 0.99 for crack, spall, rebar, and components, respectively. These predicted labels were found in close agreement with the labels. Similarly, the UNet++ recognized the semantic information and damage state with an IoU of 0.72. This demonstrated the applicability of the proposed method for automated post-earthquake building inspection process accurately without information loss from the original images.
 
 # Summary. An optional shortened abstract.
-summary: "Bulletin of Earthquake Engineering, 2025"
+summary: "Earthquake Engineering and Engineering Vibration, 2023"
 
 tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
 
@@ -35,7 +39,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
+url_pdf: https://link.springer.com/article/10.1007/s11803-023-2174-z
 
 
 # Publication type.
@@ -43,8 +47,8 @@ url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bulletin of Earthquake Engineering*"
-publication_short: "*Bull. Earthquake Eng.*"
+publication: "*Earthquake Engineering and Engineering Vibration*"
+publication_short: "*Earthq. Eng. Eng. Vib.*"
 
 # add Almetric adn dimensions badges
 add_badge: false
