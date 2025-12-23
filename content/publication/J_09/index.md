@@ -1,5 +1,5 @@
 ---
-title: "Energy-based fragility assessment of reinforced concrete bridges considering cumulative seismic demand under mainshock-aftershock sequences"
+title: "Optimal intensity measure-based seismic fragility surfaces for curved bridges considering their sensitivity to seismic excitation direction"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,21 +11,21 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2025-10-01T00:00:00Z"
-doi: "10.1007/s10518-025-02300-z"
+date: "2025-05-01T00:00:00Z"
+doi: "10.1007/s11803-025-2310-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-01T00:00:00Z"
+publishDate: "2025-05-01T00:00:00Z"
 
 
 
 abstract: |-
-  Bridges in high-intensity seismic zones are particularly vulnerable to sequential seismic events, yet conventional performance assessments often consider only mainshock (MS) effects, overlooking the influence of aftershocks. To address this limitation, this study systematically investigates the seismic energy distribution in I-girder multi-span reinforced concrete (RC) bridges subjected to both mainshock-only and mainshock-aftershock (MSAS) sequences. A dataset comprising 269 real MSAS seismic records is employed to evaluate cumulative seismic energy demands and dissipation mechanisms across key bridge components, enabling a more comprehensive assessment of structural performance. Results indicate that aftershocks significantly increase total energy accumulation, with MSAS sequences causing greater hysteretic and damping energy dissipation than MS-only cases. Bearings are identified as the primary energy-dissipating components, critically influencing overall seismic response. Unlike deformation-based parameters, energy-based metrics consistently increase with aftershock inclusion, making them more reliable for quantifying seismic demand. To facilitate energy-based fragility analysis for components and bridge systems, equivalent energy-based limit states are established through statistical correlations with traditional deformation-based parameters. The resulting fragility functions demonstrate that energy-based demand parameters effectively capture cumulative structural behavior throughout the seismic sequence. These findings enhance understanding of seismic energy quantification, enable the translation of classical deformation-based metrics into energy-based parameters, and support more unified and resilient performance evaluation strategies for bridges in regions exposed to sequential seismic hazards.
+  The effect of seismic directionality is crucial for curved bridges, a subject generally overlooked in seismic vulnerability analysis. This paper focuses on seismic fragility development as a function of seismic incidence directions for a geometrically curved bridge. A series of non-linear time history analyses were carried out for a representative finite element model of the bridge by considering actual ground motions. For reliable seismic demand models, a total of eleven intensity measures (IM) were analyzed based on optimality metrics. To quantify the sensitivity of fragility functions to input incidence directions, fragility surfaces were developed throughout the horizontal plane by considering spectral acceleration at one second (Sa1.0) as the optimal IM. Results show that the optimal IM ranking is insignificantly influenced by seismic directionality. However, seismic orientation influences fragility, which intensifies in higher damage states, particularly for piers. For a bridge system, the differences in median demand corresponding to the least and most vulnerable direction for slight, moderate, extensive, and collapse states are about 9.0%, 7.31%, 10.32%, and 11.60%, respectively. These results imply that while evaluating the vulnerability of curved bridges, the optimality of IM in demand estimation and the impact of seismic directionality should not be disregarded.
 
 # Summary. An optional shortened abstract.
-summary: "Bulletin of Earthquake Engineering, 2025"
+summary: "Earthquake Engineering and Engineering Vibration, 2025"
 
-tags: ["Mainshock-aftershock", "Bridges", "Hysteretic", "Damping", "Seismic energy", "Aftershock fragility"]
+tags: ["curved bridge", "fragility surface", "optimal IM", "seismic incidence direction", "bridge system"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -35,16 +35,15 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://link.springer.com/article/10.1007/s10518-025-02300-z
-
+url_pdf: https://link.springer.com/article/10.1007/s11803-025-2310-z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bulletin of Earthquake Engineering*"
-publication_short: "*Bull. Earthquake Eng.*"
+publication: "*Earthquake Engineering and Engineering Vibration*"
+publication_short: "*Earthq. Eng. Eng. Vib.*"
 
 # add Almetric adn dimensions badges
 add_badge: false
