@@ -2,7 +2,7 @@
 title: Conference Papers
 subtitle: ""
 type: publication
-view: 4
+view: 2
 
 show_date: true
 show_publication: true
