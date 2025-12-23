@@ -42,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.techno-press.org/content/?page=article&journal=eas&volume=23&num=1&ordernum=3
+url_pdf: https://www.researchgate.net/publication/379926587_23_Published_Paper_Techno#fullTextFileContent
 
 
 # Publication type.
