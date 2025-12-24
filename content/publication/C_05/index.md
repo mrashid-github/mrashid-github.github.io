@@ -44,8 +44,7 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*14th International Conference on Structural Safety and Reliability*"
-publication_short: "*ICOSSAR'25*"
+publication: "*JSCE-25th International Summer Symposium, Hiroshima*"
 
 # add Almetric adn dimensions badges
 add_badge: false
