@@ -36,7 +36,7 @@ links:
 - name: PDF
   url: /publication/C_08/ISUL2025_Paper.pdf
 
-# url_pdf: ISUL2025_Paper.pdf
+url_pdf: /uploads/ISUL2025_Paper.pdf
 
 
 # Publication type.
