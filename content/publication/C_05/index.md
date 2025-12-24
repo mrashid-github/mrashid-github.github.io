@@ -24,7 +24,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "ICOSSAR'25, 2025"
+summary: "JSCE-25th International Summer Symposium, 2023"
 
 tags: ["Optimum IM", "System-fragility", "PSDM", "Finite element analysis", "Complex bridge"]
 
