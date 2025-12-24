@@ -24,7 +24,7 @@ abstract: |-
  
   
 # Summary. An optional shortened abstract.
-summary: "8WCSCM, 2021"
+summary: "8WCSCM, Florida, USA"
 
 tags: ["complex bridge", "system-fragility", "seismic risk", "highway bridge", "analytical model"]
 
