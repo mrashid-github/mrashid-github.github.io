@@ -26,7 +26,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: '1'
+    publication_type: ''
     author: ''
     exclude_featured: true
     
@@ -36,5 +36,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
