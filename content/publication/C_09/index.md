@@ -45,7 +45,7 @@ url_pdf: https://www.researchgate.net/publication/392500507_Seismic_Energy_Distr
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IABSE Symposium, Tokyo 2025: Environmentally Friendly Technologies and Structures: Focusing on Sustainable Approaches*"
+publication: "*IABSE Symposium, Tokyo 2025: Environmentally Friendly Technologies and Structures: Focusing on Sustainable Approaches*"
 publication_short: "*IABSE Symposium, Tokyo 2025*"
 
 # add Almetric adn dimensions badges
