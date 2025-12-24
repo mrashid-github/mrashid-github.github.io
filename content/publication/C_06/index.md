@@ -1,10 +1,10 @@
 ---
-title: "Seismic energy dissipation and system fragility analysis of continuous reinforced concrete highway bridges"
+title: "Gaussian Process Regression Surrogate Model for Seismic Vulnerability Assessment of Highway Bridge Structure System"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-
+- Taisei Saida
 - admin
 - Mayuko Nishio
 
@@ -12,22 +12,22 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2025-05-01T00:00:00Z"
-doi: "10.23967/icossar.2025.042"
+date: "2023-08-01T00:00:00Z"
+doi: "10.1007/978-3-031-39117-0_53"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-01T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 
 
 
 abstract: |-  
-  The seismic resilience of bridge infrastructure is critical to ensuring the continued functionality of transportation networks during earthquakes. Traditional force- and displacement-based design approaches assess structural performance based on peak response measures. In contrast, energy-based seismic assessment offers a unified approach that inherently aptures both force and deformation demands. This study examines component-level seismic energy dissipation and its impact on the global system fragility of multi-span reinforced concrete (RC) bridges. A high-fidelity finite element model was developed, and extensive nonlinear time-history analyses were conducted using a suite of real ground motion records. The distribution of hysteretic and damping energy across critical components, including columns, bearings, abutments, and shear keys, was quantified. The results indicate that hysteretic energy dissipation in bearings predominantly governs the seismic response, while damping energy remains relatively stable, governed by the structural mass and bearing properties. Component and system fragility curves reveal that components exhibiting higher energy dissipation drive system fragility. These findings advance the understanding of energy dissipation mechanisms and aid into retrofit prioritization strategies to enhance bridge resilience.
+  System fragility is required especially for the vulnerability assessment of existing bridges that configure transportation network as a structural system. Here, it is essential to consider not only variation of input ground motions but also the uncertainties in physical properties due to deteriorations or other aging effects. In that case, the derivation of system fragility requires the Monte Carlo calculation with high-dimensional input uncertain parameters. This study shows the deep kernel learning (DKL) surrogate modeling for the seismic system fragility analysis. Here, it has also been shown that the multilayer perceptron can be used in the DKL to compress high-dimensional uncertainties into low-dimensional features. In addition, a multi-output Gaussian process was used and correlations between multiple outputs were considered. The target structure for verification was a multi-span curved highway bridge with seismic isolation bearings with high nonlinearities. The input-output data were created by the earthquake response analysis using the FE model, and the DKL surrogate models for demand outputs for limit states evaluations were constructed with considering parameter uncertainties in the properties of bearings and piers. In the results, the system fragilities could be derived with appropriate accuracies at a low computational cost by the DKL surrogate model. In addition, the surrogate model can identify which components' limit states cause the bridge system's limit states.
 
   
 # Summary. An optional shortened abstract.
-summary: "ICOSSAR'25, 2025"
+summary: "International Conference on Experimental Vibration Analysis for Civil Engineering Structures, 2023"
 
-tags: ["Seismic Energy", "Hysteretic", "Damping", "PSDM", "Fragility", "Highway Bridges"]
+tags: ["Surrogate Model", "Gaussian Process Regression", "Structural Reliability Analysis", "Bridge Fragility Functions"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,7 +37,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-39117-0_53
 
 
 # Publication type.
@@ -45,8 +45,8 @@ url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*14th International Conference on Structural Safety and Reliability*"
-publication_short: "*ICOSSAR'25*"
+publication: "*Experimental Vibration Analysis for Civil Engineering Structures, 2023*"
+publication_short: "*EVACES 2023*"
 
 # add Almetric adn dimensions badges
 add_badge: false
