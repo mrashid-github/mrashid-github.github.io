@@ -1,5 +1,5 @@
 ---
-title: "Seismic energy dissipation and system fragility analysis of continuous reinforced concrete highway bridges"
+title: "System Fragility Analysis of a Horizontally Curved Multi-span Highway Bridge Structure"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -12,22 +12,22 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2025-05-01T00:00:00Z"
-doi: "10.23967/icossar.2025.042"
+date: "2023-08-01T00:00:00Z"
+doi: "10.1007/978-3-031-39117-0_51"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-01T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 
 
 
 abstract: |-  
-  The seismic resilience of bridge infrastructure is critical to ensuring the continued functionality of transportation networks during earthquakes. Traditional force- and displacement-based design approaches assess structural performance based on peak response measures. In contrast, energy-based seismic assessment offers a unified approach that inherently aptures both force and deformation demands. This study examines component-level seismic energy dissipation and its impact on the global system fragility of multi-span reinforced concrete (RC) bridges. A high-fidelity finite element model was developed, and extensive nonlinear time-history analyses were conducted using a suite of real ground motion records. The distribution of hysteretic and damping energy across critical components, including columns, bearings, abutments, and shear keys, was quantified. The results indicate that hysteretic energy dissipation in bearings predominantly governs the seismic response, while damping energy remains relatively stable, governed by the structural mass and bearing properties. Component and system fragility curves reveal that components exhibiting higher energy dissipation drive system fragility. These findings advance the understanding of energy dissipation mechanisms and aid into retrofit prioritization strategies to enhance bridge resilience.
+  The traditional approach of fragility derivation in the principal loading directions (longitudinal & transverse) may result in an under/over estimation of system fragility. For geometrically curved bridges, it is important to consider the contribution of all the major vulnerable components to the system fragility in the critical loading direction. This article presents a multi-component and multi-loading directions system fragility estimation for a geometrically curved bridge structure. For demonstration purposes, a testbed curved bridge structure was considered, and the dynamic simulations were performed using the non-linear time history analysis (NLTHA). The seismic vulnerability was evaluated by developing the fragility functions for a set of medium to strong-intensity waveforms, applied in different loading directions. Shear strain, ductility, and distortion strain were considered as the engineering demand parameters (EDPs) for the bearing, concrete, and steel piers, respectively. For the system fragility functions, the demand dependency among the components was considered in the joint probabilistic seismic demand model (JPSDM) by utilizing the correlation coefficient matrix. It was observed that the bridge system response is highly dictated by the response of the laminated rubber bearings (LRBs). Moreover, the relative comparison of the system fragility for different loading directions suggests that the critical fragility assessment should not always be decided in the principal loading directions only.
 
   
 # Summary. An optional shortened abstract.
-summary: "ICOSSAR'25, 2025"
+summary: "International Conference on Experimental Vibration Analysis for Civil Engineering Structures, 2023"
 
-tags: ["Seismic Energy", "Hysteretic", "Damping", "PSDM", "Fragility", "Highway Bridges"]
+tags: ["Seismic fragility", "Curved bridges", "Seismic excitation directions", "Finite element modeling", "Highway bridges"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,7 +37,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
+url_pdf: /uploads/Paper_EVACES-2023.pdf
 
 
 # Publication type.
@@ -45,8 +45,8 @@ url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*14th International Conference on Structural Safety and Reliability*"
-publication_short: "*ICOSSAR'25*"
+publication: "*Experimental Vibration Analysis for Civil Engineering Structures, 2023*"
+publication_short: "*EVACES 2023*"
 
 # add Almetric adn dimensions badges
 add_badge: false
