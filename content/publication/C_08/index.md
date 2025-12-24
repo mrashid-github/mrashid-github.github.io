@@ -32,11 +32,11 @@ tags: ["Seismic Energy", "Hysteretic", "Damping", "Fragility", "Highway Bridges"
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: PDF
-  url: publication/C_08/ISUL2025_Paper.pdf
+# links:
+# - name: PDF
+#  url: /publication/C_08/ISUL2025_Paper.pdf
 
-# url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
+url_pdf: ISUL2025_Paper.pdf
 
 
 # Publication type.
