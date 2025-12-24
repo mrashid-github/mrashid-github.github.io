@@ -37,7 +37,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: /uploads/Paper_EVACES-2023.pdf
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-39117-0_51
 
 
 # Publication type.
