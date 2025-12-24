@@ -1,5 +1,5 @@
 ---
-title: "Seismic energy dissipation and system fragility analysis of continuous reinforced concrete highway bridges"
+title: "Finite Element Analysis of an Existing Seismically Isolated Bridge Structure"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -12,32 +12,31 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2025-05-01T00:00:00Z"
-doi: "10.23967/icossar.2025.042"
+date: "2021-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-01T00:00:00Z"
+publishDate: "2021-09-01T00:00:00Z"
 
 
 
 abstract: |-  
-  The seismic resilience of bridge infrastructure is critical to ensuring the continued functionality of transportation networks during earthquakes. Traditional force- and displacement-based design approaches assess structural performance based on peak response measures. In contrast, energy-based seismic assessment offers a unified approach that inherently aptures both force and deformation demands. This study examines component-level seismic energy dissipation and its impact on the global system fragility of multi-span reinforced concrete (RC) bridges. A high-fidelity finite element model was developed, and extensive nonlinear time-history analyses were conducted using a suite of real ground motion records. The distribution of hysteretic and damping energy across critical components, including columns, bearings, abutments, and shear keys, was quantified. The results indicate that hysteretic energy dissipation in bearings predominantly governs the seismic response, while damping energy remains relatively stable, governed by the structural mass and bearing properties. Component and system fragility curves reveal that components exhibiting higher energy dissipation drive system fragility. These findings advance the understanding of energy dissipation mechanisms and aid into retrofit prioritization strategies to enhance bridge resilience.
+
 
   
 # Summary. An optional shortened abstract.
-summary: "ICOSSAR'25, 2025"
+summary: "JSCE-23rd International Summer Symposium, 2021"
 
-tags: ["Seismic Energy", "Hysteretic", "Damping", "PSDM", "Fragility", "Highway Bridges"]
+tags: ["Finite Element modeling", "Bridge structure", "LRB", "Level-II type earthquake", "Non-linear response analysis"]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Details
+  url: https://confit.atlas.jp/guide/event/jsce2021/subject/CS2-27/advanced
 
-url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
+# url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
 
 
 # Publication type.
@@ -45,8 +44,7 @@ url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*14th International Conference on Structural Safety and Reliability*"
-publication_short: "*ICOSSAR'25*"
+publication: "*JSCE-23rd International Summer Symposium, Tokyo (Online)*"
 
 # add Almetric adn dimensions badges
 add_badge: false
