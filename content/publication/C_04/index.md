@@ -1,5 +1,5 @@
 ---
-title: "Seismic energy dissipation and system fragility analysis of continuous reinforced concrete highway bridges"
+title: "Dynamic Response Evaluation of an Existing Bridge Structure Based on Finite Element Modeling"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -12,22 +12,22 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2025-05-01T00:00:00Z"
-doi: "10.23967/icossar.2025.042"
+date: "2022-08-01T00:00:00Z"
+doi: "10.1007/978-3-030-93236-7_35"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-01T00:00:00Z"
+publishDate: "2022-08-01T00:00:00Z"
 
 
 
 abstract: |-  
-  The seismic resilience of bridge infrastructure is critical to ensuring the continued functionality of transportation networks during earthquakes. Traditional force- and displacement-based design approaches assess structural performance based on peak response measures. In contrast, energy-based seismic assessment offers a unified approach that inherently aptures both force and deformation demands. This study examines component-level seismic energy dissipation and its impact on the global system fragility of multi-span reinforced concrete (RC) bridges. A high-fidelity finite element model was developed, and extensive nonlinear time-history analyses were conducted using a suite of real ground motion records. The distribution of hysteretic and damping energy across critical components, including columns, bearings, abutments, and shear keys, was quantified. The results indicate that hysteretic energy dissipation in bearings predominantly governs the seismic response, while damping energy remains relatively stable, governed by the structural mass and bearing properties. Component and system fragility curves reveal that components exhibiting higher energy dissipation drive system fragility. These findings advance the understanding of energy dissipation mechanisms and aid into retrofit prioritization strategies to enhance bridge resilience.
+  Seismic excitation poses a serious risk to the road infrastructure network, particularly when it comes to the dynamic behavior of bridge structures. In order to assess the safety and serviceability of these structures, the dynamic response must be evaluated. In this regard, the finite element modeling is one of the widely used accepted methods which is equally applicable for the response evaluation of existing bridge structures. This paper focuses on the dynamic response evaluation of an existing highway bridge structure. The target system is a curved, box girder steel bridge, resting on soil type-II. For this purpose, a detailed 3D analytical modeling was carried out based on the recommended design guidelines, while considering the nonlinearities in the material and structural properties. The high intensity and low probability occurring, level-II type, accelerograms were retrieved and applied for dynamic response simulations. The parameters of interest analyzed were modal shapes, resonant frequencies, the response of substructure, and the laminated rubber bearings (LRBs). The resonant frequency associated with the fundamental mode observed was 0.978 Hz in the transverse direction. The displacement time histories were plotted at the selected node for the super and substructure. The reduction in relative displacement observed was ranging from 50.64% to 96.90%, which shows the effectiveness of LRBs in reducing the displacement demand on piers. It is worth mentioning, that despite a higher reduction rate in displacement, the bearings did not exceed the ultimate capacity limit state. Finally, the relative degree of vulnerability was described by developing the fragility functions for the pier and bearings, based on nonlinear time history analysis. The results showed that, for the given intensity demand, the reinforced concrete (RC) pier is highly sensitive to failure as compared to the rubber bearings.
 
   
 # Summary. An optional shortened abstract.
-summary: "ICOSSAR'25, 2025"
+summary: "Experimental Vibration Analysis for Civil Engineering Structures, 2022"
 
-tags: ["Seismic Energy", "Hysteretic", "Damping", "PSDM", "Fragility", "Highway Bridges"]
+tags: ["finite element modeling", "seismic fragility", "level-II type earthquake", "existing bridge", "laminated rubber bearing"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,7 +37,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-93236-7_35
 
 
 # Publication type.
@@ -45,8 +45,8 @@ url_pdf: https://www.scipedia.com/public/Rashid_Nishio_2025a
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*14th International Conference on Structural Safety and Reliability*"
-publication_short: "*ICOSSAR'25*"
+publication: "*Experimental Vibration Analysis for Civil Engineering Structures, 2021*"
+publication_short: "*EVACES, 2021*"
 
 # add Almetric adn dimensions badges
 add_badge: false
