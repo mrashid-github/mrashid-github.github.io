@@ -29,9 +29,6 @@ content:
     publication_type: '2'
     author: ''
     exclude_featured: true
-
-  link: /publication/
-  link_text: See all publications
   
 design:
   # Choose a view for the listings:
