@@ -260,22 +260,17 @@
 *  Home page alternating section background
 **************************************************/
 
-/* Common Wowchemy section wrappers */
-.home-section:nth-of-type(even),
-.home-section.bg-light,
-.home-section.bg-gray,
-.home-section.bg-grey,
-.section-bg,
-.bg-light,
-.bg-gray,
-.bg-grey {
-  background-color: #f2f8ff !important; /* your light blue */
+/* ODD sections → slightly stronger light blue */
+section.home-section:nth-of-type(odd) {
+  background-color: #e3f0ff !important;
 }
 
-/* If the grey is coming from inner container instead of the section */
-.home-section:nth-of-type(even) .container,
-.home-section.bg-light .container,
-.home-section.bg-gray .container,
-.home-section.bg-grey .container {
+/* EVEN sections → very light blue */
+section.home-section:nth-of-type(even) {
+  background-color: #f2f8ff !important;
+}
+
+/* Ensure inner containers don't override */
+section.home-section .container {
   background-color: transparent !important;
 }
