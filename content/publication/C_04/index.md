@@ -25,7 +25,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "Experimental Vibration Analysis for Civil Engineering Structures, 2022"
+summary: "EVACES, Tokyo, Japan, 2022"
 
 tags: ["finite element modeling", "seismic fragility", "level-II type earthquake", "existing bridge", "laminated rubber bearing"]
 
