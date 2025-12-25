@@ -316,3 +316,8 @@
 #experience .timeline .timeline-marker.is-hollow {
   border-color: #0055A4 !important;
 }
+
+#experience .timeline .timeline-marker::after {
+  background-color: #0055A4 !important;
+  border-color: #0055A4 !important;
+}
