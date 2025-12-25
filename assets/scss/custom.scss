@@ -255,6 +255,8 @@
   color: #ffffff !important;
 }
 
+
+
 /*************************************************
 *  Contact widget icon color (Font Awesome fa-ul)
 **************************************************/
@@ -264,4 +266,30 @@
   color: #0055A4 !important;
 }
 
+/*************************************************
+*  Biography section: links & icons color
+**************************************************/
+
+/* Text links (CV, University, etc.) */
+#about a {
+  color: #0055A4;
+  text-decoration-color: #0055A4;
+}
+
+/* Hover effect (slightly darker) */
+#about a:hover {
+  color: #003f7f;
+  text-decoration-color: #003f7f;
+}
+
+/* Social / profile icons under the photo */
+#about .network-icon i,
+#about .network-icon a {
+  color: #0055A4 !important;
+}
+
+/* Font Awesome SVG / pseudo-element safety */
+#about .network-icon i::before {
+  color: #0055A4 !important;
+}
 
