@@ -220,3 +220,37 @@
   }
 
 
+/*************************************************
+*  Top navigation bar styling
+**************************************************/
+
+/* Navbar background */
+.navbar,
+.navbar-dark {
+  background-color: #0b3c5d !important; /* academic blue */
+}
+
+/* Site title / name */
+.navbar-brand,
+.navbar-brand span,
+.navbar-brand a {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+/* Menu links */
+.navbar-nav .nav-link {
+  color: #f2f2f2 !important;
+}
+
+/* Active / hover menu items */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-item.active .nav-link {
+  color: #ffcc33 !important; /* your existing gold/yellow */
+}
+
+/* Icons (search, dark mode) */
+.navbar .nav-icon,
+.navbar .nav-icon i {
+  color: #ffffff !important;
+}
