@@ -25,7 +25,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "IABSE Symposium Tokyo, 2025"
+summary: "IABSE Symposium Tokyo, Japan, 2025"
 
 tags: ["energy dissipation", "fragility", "damping", "multi-span bridge", "kinetic", "hysteretic", "seismic energy"]
 
