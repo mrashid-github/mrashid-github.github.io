@@ -24,7 +24,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "JSCE-23rd International Summer Symposium, 2021"
+summary: "JSCE-23rd International Summer Symposium, Tokyo, Japan, 2021"
 
 tags: ["Finite Element modeling", "Bridge structure", "LRB", "Level-II type earthquake", "Non-linear response analysis"]
 
