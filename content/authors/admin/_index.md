@@ -14,7 +14,7 @@ organizations:
   url: https://www.tsukuba.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include finite element analysis, seismic performacne evaluation of frame structures, and seismic fragility analysis of bridge system under stand-alone and sequential seismic events.
+bio: My research interests includes finite element modeling and probabilistic seismic performance and fragility assessment of structural systems under cascading earthquake hazards.
 
 # Interests to show in About widget
 interests:
