@@ -30,9 +30,9 @@ address:
   country: Japan
   country_code: JP
 coordinates:
-  latitude: '36.109388'
-  longitude: '140.1001689'
-directions: Natural Science Building, Dai-san Area
+  latitude: '36.110097'
+  longitude: '140.0995114'
+directions: Department of Engineering Mechanics and Energy
 # office_hours:
 #  - 'Monday - Friday:  09:00 to 17:30'
 # appointment_url: 'https://calendly.com'
