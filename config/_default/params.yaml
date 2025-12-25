@@ -7,7 +7,7 @@
 
 theme: custom
 day_night: true
-font: classic # minimal
+font: modern # classic # minimal
 font_size: l # m
 
 # SEO
