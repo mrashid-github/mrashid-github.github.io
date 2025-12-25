@@ -25,7 +25,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "EVACES, Tokyo, Japan, 2022"
+summary: "EVACES, Tokyo, Japan, 2021"
 
 tags: ["finite element modeling", "seismic fragility", "level-II type earthquake", "existing bridge", "laminated rubber bearing"]
 
