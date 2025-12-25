@@ -256,16 +256,24 @@
 }
 
 /*************************************************
-*  Contact section icon colors
+*  Force Contact widget icon color
 **************************************************/
 
-#wg-contact .fa,
-#wg-contact .fas,
-#wg-contact .far,
-#wg-contact .fab,
-#wg-contact svg {
-  color: #0055A4 !important;  /* your blue */
-  fill: #0055A4 !important;   /* for SVG icons */
+/* Icon wrapper (font icons) */
+#wg-contact .contact-icon,
+#wg-contact .contact-icon i {
+  color: #0055A4 !important;
+}
+
+/* SVG icons (most common in Wowchemy) */
+#wg-contact .contact-icon svg {
+  color: #0055A4 !important;
+  fill: #0055A4 !important;
+}
+
+#wg-contact .contact-icon svg * {
+  fill: #0055A4 !important;
+  stroke: #0055A4 !important;
 }
 
 
