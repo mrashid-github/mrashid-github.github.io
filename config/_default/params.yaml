@@ -8,7 +8,7 @@
 theme: custom
 day_night: true
 font: classic # minimal
-font_size: m
+font_size: l # m
 
 # SEO
 
@@ -66,7 +66,7 @@ main_menu:
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
 address_format: en-gb
-timezone: GMT
+timezone: Asia/Tokyo
 
 # Site features
 
