@@ -24,7 +24,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "JSCE-25th International Summer Symposium, 2023"
+summary: "JSCE-25th International Summer Symposium, Hiroshima, Japan, 2023"
 
 tags: ["Optimum IM", "System-fragility", "PSDM", "Finite element analysis", "Complex bridge"]
 
