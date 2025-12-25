@@ -25,7 +25,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "International Conference on Experimental Vibration Analysis for Civil Engineering Structures, 2023"
+summary: "EVACES, Milan, Italy, 2023"
 
 tags: ["Surrogate Model", "Gaussian Process Regression", "Structural Reliability Analysis", "Bridge Fragility Functions"]
 
