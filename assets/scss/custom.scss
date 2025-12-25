@@ -274,3 +274,24 @@ section.home-section:nth-of-type(even) {
 section.home-section .container {
   background-color: transparent !important;
 }
+
+
+/*************************************************
+*  Single page background (all single pages)
+**************************************************/
+
+/* Make ALL single pages bluish */
+body.single {
+  background-color: #e3f0ff !important;
+}
+
+/* Keep the content area readable (white card look) */
+body.single .article-container {
+  background: #ffffff !important;
+  padding: 30px 30px;
+  border-radius: 12px;
+}
+
+body.single {
+  background-color: #dbeaff !important;
+}
