@@ -293,3 +293,26 @@
   color: #0055A4 !important;
 }
 
+/*************************************************
+*  Experience timeline color (match ribbon)
+**************************************************/
+
+/* The vertical line */
+#experience .exp-timeline::before,
+#experience .timeline::before {
+  background-color: #0055A4 !important;
+}
+
+/* The dots */
+#experience .exp-timeline .exp-dot,
+#experience .timeline .timeline-marker,
+#experience .timeline .timeline-marker::before {
+  background-color: #0055A4 !important;
+  border-color: #0055A4 !important;
+}
+
+/* If some dots are hollow (outline only) */
+#experience .exp-timeline .exp-dot-outline,
+#experience .timeline .timeline-marker.is-hollow {
+  border-color: #0055A4 !important;
+}
