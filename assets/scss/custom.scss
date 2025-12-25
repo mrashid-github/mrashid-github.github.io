@@ -256,23 +256,5 @@
 }
 
 
-/*************************************************
-*  Home page alternating section background
-**************************************************/
-
-/* ODD sections → slightly stronger light blue */
-section.home-section:nth-of-type(odd) {
-  background-color: #e3f0ff !important;
-}
-
-/* EVEN sections → very light blue */
-section.home-section:nth-of-type(even) {
-  background-color: #f2f8ff !important;
-}
-
-/* Ensure inner containers don't override */
-section.home-section .container {
-  background-color: transparent !important;
-}
 
 
