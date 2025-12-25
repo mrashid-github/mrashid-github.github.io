@@ -25,7 +25,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "ICOSSAR'25, 2025"
+summary: "ICOSSAR, California, USA, 2025"
 
 tags: ["Seismic Energy", "Hysteretic", "Damping", "PSDM", "Fragility", "Highway Bridges"]
 
