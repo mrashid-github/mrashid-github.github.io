@@ -24,7 +24,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "JSCE-24th International Summer Symposium, 2022"
+summary: "JSCE-24th International Summer Symposium, Kyoto, Japan, 2022"
 
 tags: ["Complex bridge", "System-fragility", "PSDM", "Finite element analysis", "Seismic vulnerability"]
 
