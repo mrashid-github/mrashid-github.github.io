@@ -24,7 +24,7 @@ abstract: |-
 
   
 # Summary. An optional shortened abstract.
-summary: "The 2nd International Symposium on Urban Lifeline (ISUL), 2025"
+summary: "The 2nd International Symposium on Urban Lifeline (ISUL), Saitama, Japan, 2025"
 
 tags: ["Seismic Energy", "Hysteretic", "Damping", "Fragility", "Highway Bridges"]
 
