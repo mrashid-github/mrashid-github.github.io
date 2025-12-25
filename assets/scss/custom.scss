@@ -294,30 +294,43 @@
 }
 
 /*************************************************
-*  Experience timeline color (match ribbon)
+*  Experience timeline — force all markers/line to ribbon blue
 **************************************************/
+:root { --ribbon-blue: #0055A4; }
 
-/* The vertical line */
-#experience .exp-timeline::before,
-#experience .timeline::before {
-  background-color: #0055A4 !important;
+/* Vertical timeline line */
+#wg-experience .timeline::before,
+#experience .timeline::before,
+#wg-experience .exp-timeline::before,
+#experience .exp-timeline::before {
+  background: var(--ribbon-blue) !important;
 }
 
-/* The dots */
-#experience .exp-timeline .exp-dot,
-#experience .timeline .timeline-marker,
-#experience .timeline .timeline-marker::before {
-  background-color: #0055A4 !important;
-  border-color: #0055A4 !important;
+/* Markers (filled + hollow) */
+#wg-experience .timeline-marker,
+#experience .timeline-marker,
+#wg-experience .exp-dot,
+#experience .exp-dot {
+  border-color: var(--ribbon-blue) !important;
 }
 
-/* If some dots are hollow (outline only) */
-#experience .exp-timeline .exp-dot-outline,
-#experience .timeline .timeline-marker.is-hollow {
-  border-color: #0055A4 !important;
+/* The actual dot fill (often drawn with pseudo elements) */
+#wg-experience .timeline-marker::before,
+#experience .timeline-marker::before,
+#wg-experience .timeline-marker::after,
+#experience .timeline-marker::after,
+#wg-experience .exp-dot::before,
+#experience .exp-dot::before,
+#wg-experience .exp-dot::after,
+#experience .exp-dot::after {
+  background: var(--ribbon-blue) !important;
+  border-color: var(--ribbon-blue) !important;
 }
 
-#experience .timeline .timeline-marker::after {
-  background-color: #0055A4 !important;
-  border-color: #0055A4 !important;
+/* If icons are FontAwesome circles (common in some builds) */
+#wg-experience .fa-circle,
+#experience .fa-circle,
+#wg-experience .fa-dot-circle,
+#experience .fa-dot-circle {
+  color: var(--ribbon-blue) !important;
 }
