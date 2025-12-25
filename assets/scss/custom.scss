@@ -257,10 +257,25 @@
 
 
 /*************************************************
-*  Section background colors
+*  Home page alternating section background
 **************************************************/
 
-/* Alternate section background (light grey → light blue) */
-.section-bg {
-  background-color: #f2f8ff !important;
+/* Common Wowchemy section wrappers */
+.home-section:nth-of-type(even),
+.home-section.bg-light,
+.home-section.bg-gray,
+.home-section.bg-grey,
+.section-bg,
+.bg-light,
+.bg-gray,
+.bg-grey {
+  background-color: #f2f8ff !important; /* your light blue */
+}
+
+/* If the grey is coming from inner container instead of the section */
+.home-section:nth-of-type(even) .container,
+.home-section.bg-light .container,
+.home-section.bg-gray .container,
+.home-section.bg-grey .container {
+  background-color: transparent !important;
 }
