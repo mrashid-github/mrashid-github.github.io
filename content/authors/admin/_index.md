@@ -86,3 +86,5 @@ I am Muhammad Rashid, a Post-doc Research Associate at the University of Tsukuba
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Rashid_s_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+{{< icon name="map-marked-alt" pack="fas" >}} Visit my [researchmap profile](https://researchmap.jp/rashid123).
