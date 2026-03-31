@@ -54,9 +54,9 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Muhammad-Rashid-3?ev=hdr_xprf
 
-#- icon: scopus
-#  icon_pack: ai
-#  link: https://www.scopus.com/authid/detail.uri?authorId=58588404200
+- icon: scopus
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=58588404200
 
 - icon: researchmap
   icon_pack: custom
