@@ -58,10 +58,6 @@ social:
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=58588404200
 
-- icon: researchmap
-  icon_pack: custom
-  link: https://researchmap.jp/rashid123
-
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/my-orcid?orcid=0000-0001-5799-6054
