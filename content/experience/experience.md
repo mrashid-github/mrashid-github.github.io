@@ -13,7 +13,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoc Research Associate
+  - title: Postdoc Research Fellow
     company: University of Tsukuba
     company_url: 'https://www.tsukuba.ac.jp/en/'
 #    company_logo: University_of_Edinburgh-Logo_2
