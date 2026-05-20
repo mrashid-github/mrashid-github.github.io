@@ -83,7 +83,7 @@ email: ""
 highlight_name: true
 ---
 
-Muhammad Rashid is a Postdoctoral Research Fellow at the University of Tsukuba, whose work sits at the intersection of structural and earthquake engineering. Focused on the performance evaluation of buildings and bridges under sequential seismic events, his research draws on system-level fragility modeling and performance-based earthquake engineering to inform more reliable and resilient infrastructure systems. His work brings probabilistic hazard assessment to its most meaningful purpose: infrastructure that is safe, resilient, and built to endure.
+Muhammad Rashid is a Postdoctoral Research Fellow at the University of Tsukuba, working on the seismic performance evaluation of civil structures, including buildings and bridges, with a focus on sequential seismic hazards, system-level fragility modeling, and performance-based earthquake engineering.
 
 
 <span style="color: #0055a4;">{{< icon name="download" pack="fas" >}}</span> Download my {{< staticref "uploads/Rashid_s_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
